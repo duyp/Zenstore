@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZencaseOrder</string>
+    
+    <string name="menu_update">Cập nhật đơn hàng</string>
+    <string name="menu_zen_new">NEW</string>
+    <string name="menu_zen_wait">WAIT</string>
+    <string name="menu_zen_done">DONE</string>
+    <string name="menu_zen_fail">FAIL</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="customer_name">KH</string>
+    
+    <string name="order_code">Ma DH</string>
+    <string name="order_status">T.Thai</string>
+    <string name="order_price">Gia</string>
+    <string name="order_tittle"> Chi Tiet DH</string>
+    <string name="order_time">Thoi Gian</string>
+    <string name="order_extra">Ghi Chu</string>
+    
+    <string name="product_name">San Pham</string>
+    <string name="phone_number">SDT</string>
+    <string name="address">Địa chỉ</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_oder">Thông tin đơn hàng</string>
+    <string name="title_activity_zen">ZENSTORE</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_product">Thông tin sản phẩm</string>
+    <string name="menu_order_update">Cập nhật trạng thái ĐH</string>
+    <string name="menu_order_delete">Xóa ĐH</string>
+	
+</resources>
